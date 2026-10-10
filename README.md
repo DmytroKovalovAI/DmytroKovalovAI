@@ -40,7 +40,7 @@ An MVP portfolio case demonstrating an integrated AI-powered sales automation ec
 
 **Technologies:** n8n, Zoho CRM, Qdrant, PostgreSQL, OpenAI API, Wix, Happ.tools, Zadarma.
 
-[View the full case study](https://app.notion.com/p/portfolio-kovalov/AI-Sales-Automation-Ecosystem-for-GM-Group-3b4b7f0c143580449b3ded56d32cbf2?source=copy_link)
+[View the full case study](https://app.notion.com/p/portfolio-kovalov/AI-Sales-Automation-Ecosystem-for-GM-Group-3b4b7f0c143580449b3ded56d32cbf2b?source=copy_link)
 
 ### 2. AI Customer Support Automation System for ScoreUp
 
