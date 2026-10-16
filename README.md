@@ -1,4 +1,5 @@
-<img width="2048" height="768" alt="cd2dee6a-dbc4-4152-af06-4b66ebc6af51" src="https://github.com/user-attachments/assets/8dec05a2-72b3-45ce-a432-2da14590fb0c" />
+<img width="2048" height="538" alt="cd2dee6a-dbc4-4152-af06-4b66ebc6af51" src="https://github.com/user-attachments/assets/f67a7f20-1fb5-46d1-8d62-ddff0cdd831b" />
+
 
 # Hi, I'm Dmytro Kovalov 👋
 
